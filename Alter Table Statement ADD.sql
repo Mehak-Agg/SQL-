@@ -1,5 +1,5 @@
 /*-> Alter Table Statement <-*/
---adds a column without constraints that aloows null values...
+--adds a column without constraints that allows null values...
 
 use employee_DB
 
