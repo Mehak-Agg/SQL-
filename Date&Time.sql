@@ -1,7 +1,7 @@
 /* DATE & TIME FUNCTION
-	1. GETDATE()/getdate(),current_timestamp,sysdatetime():->It tells the date and time of thne system
+	1. GETDATE()/getdate(),current_timestamp,sysdatetime():->It tells the date and time of the system
 	2. datename():-> Tell the different things related to the date
-	3. datediff():-> Tells the time stamp till thne preasent date 
+	3. datediff():-> Tells the time stamp till the present date 
 	4. dateadd():-> Show the date after some specific time (future prediction)*/
 
 select GETDATE() as TodayDate;
