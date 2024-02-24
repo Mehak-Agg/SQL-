@@ -1,7 +1,7 @@
 /*-> Aliases <-*/
 --can be use to create a temporary name for columns or tables.
 
---Types of aliases (are used to make column headings in query outpuut easier to read.
+--Types of aliases (are used to make column headings in query output easier to read.
                    --[Specially with functions and column concatenation])
 
 select  * from employee_info;
